@@ -81,10 +81,11 @@ const althaaf = {
 
 | Project | Type | Tech Stack | Description |
 |---------|------|------------|-------------|
-| 🌱 **INA Agro-GARLIC** | Web Apps | Laravel, React | Sistem Penilaian Agroekologi Kesesuaian Lahan untuk Bawang Putih |
+| 🌱 **INA Agro-GARLIC** | Web Apps | React, Typescript | Agroecological Assessment of Land Suitability for Garlic |
 | 🧺 **My Laundry** | Web Apps | Laravel, Vue | Smart Laundry Management System |
 | 🏥 **SEHATI** | Web Apps | Laravel, Bootstrap | Healthcare Information System |
-| 📊 **FeedGOS!** | Information System | PHP, MySQL | Comprehensive Information Management System |
+| 📊 **FeedGO!** | Information System | PHP, MySQL | Comprehensive Information Management System |
+| 💻 **Ilkomunity** | Web Apps | Astro | Website for Computer Science Community |
 
 </div>
 
