@@ -81,11 +81,11 @@ const althaaf = {
 
 | Project | Type | Tech Stack | Description |
 |---------|------|------------|-------------|
-| 🌱 **INA Agro-GARLIC** | Web Apps | React, Typescript | Agroecological Assessment of Land Suitability for Garlic |
-| 🧺 **My Laundry** | Web Apps | Laravel, Vue | Smart Laundry Management System |
-| 🏥 **SEHATI** | Web Apps | Laravel, Bootstrap | Healthcare Information System |
-| 📊 **FeedGO!** | Information System | PHP, MySQL | Comprehensive Information Management System |
-| 💻 **Ilkomunity** | Web Apps | Astro | Website for Computer Science Community |
+| 🌱 **INA Agro-GARLIC** | Web Apps | React, Typescript,Figma | Agroecological Assessment of Land Suitability for Garlic |
+| 🧺 **My Laundry** | Web Apps | PHP, MySQL, Figma | Smart Laundry Management System |
+| 🏥 **SEHATI** | Web Apps | PHP, Bootstrap, Figma | Healthcare Information System |
+| 📊 **FeedGO!** | Information System | Figma | Comprehensive Information Management System |
+| 💻 **Ilkomunity** | Web Apps | Astro, Figma | Website for Computer Science Community |
 
 </div>
 
@@ -118,13 +118,6 @@ const althaaf = {
 
 ## 📊 GitHub Statistics
 
-### Current Stats
-- ⭐ Total Stars Earned: 2
-- 📝 Total Commits: 257
-- 🔄 Total PRs: 23
-- ❗ Total Issues: 0
-- 🤝 Contributed to (last year): 1
-- 📈 Overall Grade: C+
 
 ### Visualization
 
