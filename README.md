@@ -181,8 +181,7 @@ const althaaf: Developer = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-2196F3?style=for-the-badge&logo=google-chrome)](https://porto.gusendra.site)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/althaafnaufal)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/althaafnaufal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/althaaf1601)
 
 *I love connecting with different people! Let's collaborate and create something amazing together! 🚀*
 
