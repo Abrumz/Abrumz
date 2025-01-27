@@ -1,160 +1,194 @@
+# <div align="center">👨‍💻 Made Althaaf Naufal Gusendra</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&height=70&lines=Full-Stack+Web+Developer;Computer+Science+Student;UI%2FUX+Design+Enthusiast;Crafting+Digital+Experiences)](https://git.io/typing-svg)
+
+&nbsp;
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&height=60&lines=%22Good+Software%2C+Like+Fine+Wine%2C;Takes+Time+to+Perfect%22+%F0%9F%8D%B7" alt="Quote" />
+</div>
+
 <div align="center">
   
-# 👨‍💻 Made Althaaf Naufal Gusendra
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Web+Developer;Computer+Science+Student;Good+Software+Like+Wine+Takes+Time)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abrumz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 Welcome to My Digital Universe! 🌟
-
-[![Website](https://img.shields.io/badge/Website-porto.gusendra.site-blue?style=for-the-badge&logo=google-chrome)](https://porto.gusendra.site)
-
-</div>
-
-### 🚀 About Me
-
 ```javascript
-const althaaf = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "PHP", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "UI/UX"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Material UI"]
-        },
-        backEnd: {
-            php: ["Laravel"],
-            js: ["Node", "Express"],
-        },
-        databases: ["MySQL", "MongoDB", "PostgreSQL"],
-        design: ["Figma", "Adobe XD"]
+while (!perfect) {
+    code.improve();
+    time.invest();
+    quality.enhance();
+}
+```
+</div>
+
+[![Website](https://img.shields.io/badge/Portfolio-porto.gusendra.site-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://porto.gusendra.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/made-althaaf/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Abrumz&style=for-the-badge&color=2196F3)](https://github.com/Abrumz)
+
+</div>
+
+## 🚀 About Me
+
+```typescript
+interface Skills {
+    languages: string[];
+    frontend: string[];
+    backend: string[];
+    databases: string[];
+    design: string[];
+}
+
+interface Developer {
+    name: string;
+    title: string;
+    location: string;
+    askMeAbout: string[];
+    skills: Skills;
+    funFact: string;
+}
+
+const althaaf: Developer = {
+    name: "Made Althaaf Naufal Gusendra",
+    title: "Full-Stack Developer & UI/UX Designer",
+    location: "Indonesia 🇮🇩",
+    askMeAbout: [
+        "Web Development", 
+        "UI/UX Design",
+        "Tech Innovation",
+        "Creative Solutions"
+    ],
+    skills: {
+        languages: ["TypeScript", "JavaScript", "PHP", "Python", "Java"],
+        frontend: ["React", "Vue", "Tailwind CSS", "Bootstrap", "Material UI"],
+        backend: ["Laravel", "Node.js", "Express"],
+        databases: ["PostgreSQL", "MySQL", "MongoDB"],
+        design: ["Figma", "Adobe XD", "UI/UX Principles"]
     },
-    currentFocus: "Web Development and UI/UX Design",
-    funFact: "Good Software Like Wine Takes Time 🍷"
+    funFact: "I turn coffee into code and dreams into digital reality ☕️"
 };
 ```
 
----
+## 🎯 Featured Projects
 
-<div align="center">
-
-## 🎯 Expertise
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100">
-      <br>Website Design
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100">
-      <br>App Development
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100">
-      <br>UX/UI Design
-    </td>
-  </tr>
+<table>
+<tr>
+<td align="center" width="50%">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</td>
+<td align="center" width="50%">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrumz&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3" />
+</td>
+</tr>
 </table>
 
----
+### 🌟 Other Notable Projects
+
+<table>
+<tr>
+<td align="center" width="33%">
+    <h3>🌱 INA Agro-GARLIC</h3>
+    <p>Advanced agroecological assessment system for precise garlic cultivation</p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</td>
+<td align="center" width="33%">
+    <h3>🧺 My Laundry</h3>
+    <p>Smart laundry management system with real-time tracking</p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</td>
+<td align="center" width="33%">
+    <h3>🏥 SEHATI</h3>
+    <p>Integrated healthcare information management system</p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center">
+    <h3>📊 FeedGO!</h3>
+    <p>Comprehensive information management system for efficient data handling</p>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/UI/UX-FF4088?style=flat-square&logo=design&logoColor=white" />
+</td>
+<td align="center">
+    <h3>💻 Ilkomunity</h3>
+    <p>Dynamic platform for Computer Science community engagement</p>
+    <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</td>
+<td align="center">
+    <h3>🔗 Link</h3>
+    <p>Privacy-focused link management solution deployed on Azure</p>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</td>
+</tr>
+</table>
+
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
-## 🎨 Featured Projects
+### 💻 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abrumz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=2196F3&icon_color=2196F3" />
+</div>
+
+## 🎵 Currently Vibing To
+
 <div align="center">
 
-| Project | Type | Tech Stack | Description |
-|---------|------|------------|-------------|
-| 🌱 **INA Agro-GARLIC** | Web Apps | React, Typescript,Figma | Agroecological Assessment of Land Suitability for Garlic |
-| 🧺 **My Laundry** | Web Apps | PHP, MySQL, Figma | Smart Laundry Management System |
-| 🏥 **SEHATI** | Web Apps | PHP, Bootstrap, Figma | Healthcare Information System |
-| 📊 **FeedGO!** | Information System | Figma | Comprehensive Information Management System |
-| 💻 **Ilkomunity** | Web Apps | Astro, Figma | Website for Computer Science Community |
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=21qr2yldwuxai4chdhekagsjq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=2196F3&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21qr2yldwuxai4chdhekagsjq&redirect=true)
 
 </div>
 
----
+## 🤝 Let's Connect!
 
 <div align="center">
 
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-
-### Visualization
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abrumz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrumz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Abrumz)
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/made-althaaf/)
-[![Website](https://img.shields.io/badge/Website-porto.gusendra.site-blue?style=for-the-badge&logo=google-chrome)](https://porto.gusendra.site)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-success?style=for-the-badge&logo=files)](https://porto.gusendra.site/portfolio)
-
-### 📱 Social Media
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-2196F3?style=for-the-badge&logo=google-chrome)](https://porto.gusendra.site)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/althaafnaufal)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/althaafnaufal)
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
+*I love connecting with different people! Let's collaborate and create something amazing together! 🚀*
 
 </div>
 
 ---
-
 <div align="center">
-
-### 🎵 Currently Vibing To
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21qr2yldwuxai4chdhekagsjq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21qr2yldwuxai4chdhekagsjq&redirect=true)
-
-
-
-⭐️ From [Abrumz](https://github.com/Abrumz)
-
+⭐️ From [Abrumz](https://github.com/Abrumz) with ❤️
 </div>
