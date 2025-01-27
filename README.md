@@ -7,7 +7,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&height=60&lines=%22Good+Software%2C+Like+Fine+Wine%2C;Takes+Time+to+Perfect%22+%F0%9F%8D%B7" alt="Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&height=60&lines=Good+Software+Like+Wine+Takes+Time+🍷" alt="Quote" />
 </div>
 
 <div align="center">
