@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&height=70&lines=Full-Stack+Web+Developer;Computer+Science+Student;UI%2FUX+Design+Enthusiast;Crafting+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&height=70&lines=Frontend+Developer;Computer+Science+Student;Crafting+Digital+Experiences)](https://git.io/typing-svg)
 
 &nbsp;
 
@@ -22,7 +22,7 @@ while (!perfect) {
 </div>
 
 [![Website](https://img.shields.io/badge/Portfolio-porto.gusendra.site-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://porto.gusendra.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/made-althaaf/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/made-althaaf/](https://www.linkedin.com/in/160103made))
 [![Profile Views](https://komarev.com/ghpvc/?username=Abrumz&style=for-the-badge&color=2196F3)](https://github.com/Abrumz)
 
 </div>
