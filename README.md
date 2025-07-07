@@ -21,7 +21,7 @@ while (!perfect) {
 ```
 </div>
 
-[![Website](https://img.shields.io/badge/Portfolio-porto.gusendra.site-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://porto.gusendra.site)
+[![Website](https://img.shields.io/badge/Portfolio-porto.gusendra.id-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://porto.gusendra.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/160103made/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Abrumz&style=for-the-badge&color=2196F3)](https://github.com/Abrumz)
 
